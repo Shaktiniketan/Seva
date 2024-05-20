@@ -1,5 +1,5 @@
 # Seva
-### A dapp for social good\
+### A dapp for social good
 ### Wow Feature: Blockchain aspect to combat corruption
 
 ***

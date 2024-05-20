@@ -1,9 +1,10 @@
 # Seva
-An app for social good
+A dapp for social good
+Wow Feature: Blockchain aspect to combat corruption
 
 ***
 
-### Features of the app:
+### Features of the dapp:
 
 1. Landing page
 1. Login Page
@@ -15,7 +16,7 @@ An app for social good
     - Find out interests of volunteer and map suitably
     - Chat
     - student organization / groups
-    - connect app-developers and web-developers to NGO's
+    - connect dapp-developers and web-developers to NGO's
 1. Organization side (NGO, old age home, orphanage, hospitals, blood banks)
     - list out help needed in form of 
         * volunteering
